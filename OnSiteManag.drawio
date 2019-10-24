@@ -1,94 +1,94 @@
-<mxfile host="www.draw.io" modified="2019-10-24T16:55:13.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="hyW9xGYGwbbhqpsPetaN" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T16:56:31.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="FMje4_HHLajS8vgMCv7n" version="12.1.4" type="github" pages="1">
   <diagram id="WyztXBnFhIgyxmyer4uQ" name="Page-1">
-    <mxGraphModel dx="2012" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="GVz599X6wvshu0MyRDAH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/palet02.png" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/palet02.png" parent="1" vertex="1">
           <mxGeometry x="-600" y="169" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/self1.png" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/self1.png" parent="1" vertex="1">
           <mxGeometry x="-559.5" y="199" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_invoice-128.png" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_invoice-128.png" parent="1" vertex="1">
           <mxGeometry x="-776" y="176.5" width="106" height="106" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-10" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-10" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" parent="1" vertex="1">
           <mxGeometry x="-340" y="193.5" width="99" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#036897;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#036897;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-809.5" y="248.5" width="49" height="101" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;fillColor=#036897;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="-744.5" y="511.5" width="82" height="86" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#036897;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#036897;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-809.5" y="537" width="49" height="101" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-2-14/256/b-78-128.png;fillColor=#036897;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-2-14/256/b-78-128.png;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="-170" y="199" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-2-14/256/b-78-128.png;fillColor=#036897;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-2-14/256/b-78-128.png;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="-170" y="528.5" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=#333333;fillColor=#ffffff;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=#333333;fillColor=#ffffff;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;" parent="1" vertex="1">
           <mxGeometry x="-744.5" y="290.5" width="47" height="42" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/mobile-and-internet-business/285/qr_code-128.png;strokeColor=#333333;strokeWidth=3;fillColor=#036897;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/mobile-and-internet-business/285/qr_code-128.png;strokeColor=#333333;strokeWidth=3;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="-739" y="585.5" width="71" height="71" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-651" y="605.5" as="sourcePoint"/>
             <mxPoint x="-571" y="605.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-431.5" y="262" as="sourcePoint"/>
             <mxPoint x="-351.5" y="262" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-35" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-35" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-420" y="592" as="sourcePoint"/>
             <mxPoint x="-170" y="592" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-229.5" y="262.5" as="sourcePoint"/>
             <mxPoint x="-170" y="262.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/palet02.png" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/palet02.png" parent="1" vertex="1">
           <mxGeometry x="-590" y="498.5" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/self1.png" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/self1.png" parent="1" vertex="1">
           <mxGeometry x="-549.5" y="528.5" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-39" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-39" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-680" y="233.5" as="sourcePoint"/>
             <mxPoint x="-600" y="233.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人員執行點檢判定並手抄紀錄結果&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人員執行點檢判定並手抄紀錄結果&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-723" y="322.5" width="230" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;將紙本點檢紀錄人工輸入至Excel&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;將紙本點檢紀錄人工輸入至Excel&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-421.5" y="311.5" width="230" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;產生分析報表&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;產生分析報表&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-156" y="332.5" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;產生分析報表&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;產生分析報表&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-156" y="663.5" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人員使用Barcode掃描箱號條碼&lt;br&gt;系統帶入相關資訊直接紀錄至資料庫&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;人員使用Barcode掃描箱號條碼&lt;br&gt;系統帶入相關資訊直接紀錄至資料庫&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-721" y="658.5" width="240" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="GVz599X6wvshu0MyRDAH-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;撈取系統點檢紀錄&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="GVz599X6wvshu0MyRDAH-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;撈取系統點檢紀錄&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-376.5" y="606.5" width="140" height="20" as="geometry"/>
         </mxCell>
       </root>
