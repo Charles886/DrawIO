@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T16:56:31.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="FMje4_HHLajS8vgMCv7n" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T05:20:35.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="a5JMUG6UmG1s6J1gdHVw" version="12.1.7" type="github" pages="1">
   <diagram id="WyztXBnFhIgyxmyer4uQ" name="Page-1">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="GVz599X6wvshu0MyRDAH-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;撈取系統點檢紀錄&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-376.5" y="606.5" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bUdPiXqKGoQTCF1erYrv-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="-241" y="180" width="54" height="54" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
