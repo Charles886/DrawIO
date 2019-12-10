@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T01:43:02.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="bHkrla6F8ZzVQw4pmfO3" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T01:43:38.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wY51xi_DhCDlqtPgoQx_" version="12.3.8" type="github" pages="1">
   <diagram id="f3Q_cKEoPb3BcpEbv52P" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -143,10 +143,10 @@
           <mxGeometry x="441" y="580" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Yy9OKe_4KE1ZiuBnPWdF-52" value="＃為需要透過API執行之動作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="765" y="609" width="180" height="20" as="geometry"/>
+          <mxGeometry x="910" y="620" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="fsR2cgbqaecfNtGQx9zy-1" value="&lt;span style=&quot;font-weight: 700&quot;&gt;＃&lt;/span&gt;&lt;b&gt;取回流水碼後產生標籤並上傳至FTP&lt;/b&gt;" style="text;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="770" y="267" width="220" height="30" as="geometry"/>
+          <mxGeometry x="770" y="258" width="220" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="fsR2cgbqaecfNtGQx9zy-2" value="" style="endArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
