@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-23T00:50:24.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="qCbIIMCQJOEE_qb1yc3L" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-24T02:25:40.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6NLW0TbVkdd1DynbgeFB" version="12.3.8" type="github" pages="1">
   <diagram id="f3Q_cKEoPb3BcpEbv52P" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -146,7 +146,7 @@
           <mxGeometry x="910" y="610" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="fsR2cgbqaecfNtGQx9zy-1" value="&lt;span style=&quot;font-weight: 700&quot;&gt;＃&lt;/span&gt;&lt;b&gt;取回[Box PSN ID]後產生標籤並上傳至FTP&lt;/b&gt;" style="text;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="769" y="257" width="220" height="30" as="geometry"/>
+          <mxGeometry x="769" y="257" width="261" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="fsR2cgbqaecfNtGQx9zy-2" value="" style="endArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
