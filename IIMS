@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:43:55.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="sjvWtROI4X0cuQaiRgOu" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:47:30.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="yFOEl86ao4LAid60pM2C" version="20.0.3" type="github">
   <diagram id="Hb2szz60tTumgh7l4rau" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,8 +119,8 @@
         <mxCell id="4B0C65-1vibHzpj5O9oK-14" value="Marketing Dept&lt;br&gt;(DC,PN)" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" vertex="1" parent="1">
           <mxGeometry x="719" y="150.00000000000006" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4B0C65-1vibHzpj5O9oK-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Accounting Dept&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90.28" y="90" width="130" height="30" as="geometry" />
+        <mxCell id="4B0C65-1vibHzpj5O9oK-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Accounting Dept&amp;nbsp;&lt;br&gt;Idel/Slow/LCM&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90.28" y="80" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4B0C65-1vibHzpj5O9oK-16" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;Auto&amp;nbsp; Job&amp;nbsp; &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;Prepate Data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="189" y="494.1" width="110" height="60" as="geometry" />
@@ -130,6 +130,21 @@
         </mxCell>
         <mxCell id="4B0C65-1vibHzpj5O9oK-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/58-128.png;shadow=1;sketch=0;fontSize=14;strokeColor=default;fillColor=#34B9E2;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="599.4" y="150" width="86" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="4B0C65-1vibHzpj5O9oK-28" value="WPOS Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4B0C65-1vibHzpj5O9oK-29" value="Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="719" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4B0C65-1vibHzpj5O9oK-30" value="Idel/Slow/LCM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="375" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4B0C65-1vibHzpj5O9oK-31" value="Order Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="464.1" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4B0C65-1vibHzpj5O9oK-32" value="WIP Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="557" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
